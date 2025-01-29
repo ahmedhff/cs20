@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>First Web Page</title>
+</head>
+<body>
+    <h1>Ahmed F</h1>
+    <h2>Engineering Psychology</h2>
+    <p>130.64.64.33</p>
+    <p>Cairo, Egypt</p>
+    <hr>
+    <img src="berlintrip-001.jpg" align='left'>
+
+    <p>  This is a photo from my recent trip to Berlin</p>
+    <p>  I really enjoyed the architecture and the food</p>
+    <p\>
+    <br clear="all">
+    <a href="http://yumchaheroes.com/" target="_blank">Yumcha Heroes Restraunt</a></body>
+    <p>People don't usually expect that I can bake</p>
+</html>
